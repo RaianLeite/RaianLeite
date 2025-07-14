@@ -1,4 +1,4 @@
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 
 <p align="center">
   Olá!<br>
@@ -19,7 +19,9 @@
   <br><br>
 
   <h3>🎨 Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,angular,ionic" height="30" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" style="margin-bottom:-5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" style="margin-bottom:-5px;" />
   <br><br>
 
   <h3>🛠️ Back-end / Fullstack</h3>
