@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá!<br>Me chamo Raian Leite, estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades de aprendizado para ingressar no mercado de trabalho e construir uma carreira sólida na área de tecnologia.<br><br>Atualmente, estou participando de um bootcamp na Digital Innovation One (DIO), focado em .NET e versionamento Git, o que tem me proporcionado uma ótima base para aprimorar minhas habilidades em desenvolvimento e controle de código.<br><br>Estou ansioso para colaborar em projetos inovadores, aprender com profissionais da área e contribuir com a comunidade tech.</p>
+<p align="left">Olá!<br>Me chamo Raian Leite, estudante de Ciência da Computação, apaixonado por tecnologia e desenvolvimento de software. Estou sempre em busca de novos desafios e oportunidades de aprendizado para ingressar no mercado de trabalho e construir uma carreira sólida na área de tecnologia.<br>Estou ansioso para colaborar em projetos inovadores, aprender com profissionais da área e contribuir com a comunidade tech.</p>
 
 ###
 
