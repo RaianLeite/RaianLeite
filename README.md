@@ -38,7 +38,7 @@
 <h2 align="center">📌 Currently Learning</h2>
 
 <p align="center">
-  Atualmente estou focado em aprimorar meus conhecimentos em JavaScript e desenvolvimento fullstack com Node.js e React, utilizando o ecossistema da OneBitCode.
+  Atualmente estou focado em aprimorar meus conhecimentos em JavaScript e desenvolvimento fullstack com Node.js e React.
 </p>
 
 ---
