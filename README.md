@@ -1,70 +1,72 @@
-<h2 align="center">👨‍💻 About Me 👨‍💻</h2>
+<h1 align="center">👋 Olá, eu sou o Raian Leite!</h1>
 
 <p align="center">
-  Olá!<br>
-  Me chamo Raian Leite, sou estudante de Ciência da Computação e apaixonado por tecnologia e desenvolvimento de software.<br>
-  Estou em constante busca por novos desafios e oportunidades que me permitam aplicar e expandir meus conhecimentos.<br>
-  Tenho grande interesse em atuar com desenvolvimento web e mobile, colaborando em projetos inovadores e aprendendo com profissionais da área.<br>
-  Meu objetivo é construir uma carreira sólida na área de tecnologia, contribuindo ativamente para a comunidade tech.
+  🎓 Estudante de Ciência da Computação (8º período) <br>
+  💻 Foco em Desenvolvimento Web e Fullstack <br>
+  📍 Santa Luzia - MG | Disponível para trabalho remoto <br>
+  🚀 Apaixonado por transformar ideias em soluções digitais
 </p>
 
 ---
 
-<h2 align="center">🚀 Techs</h2>
+## 🚀 Tecnologias e Ferramentas
+
+### 💻 Linguagens
+![JavaScript](https://skillicons.dev/icons?i=js) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=py) ![C](https://skillicons.dev/icons?i=c)
+
+### 🌐 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" height="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" style="margin-right: 4px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" style="margin-right: 4px;" />
+
+### 🛠️ Back-end
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![.NET](https://skillicons.dev/icons?i=dotnet)
+
+### 🧰 Outros
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Arduino](https://skillicons.dev/icons?i=arduino)
+
+---
+
+## 🧠 Atualmente Estudando
+
+- JavaScript moderno (ES6+)
+- React.js com Hooks e Componentes Funcionais
+- Node.js + Express
+- MongoDB e APIs REST
+- Boas práticas com Git e Clean Code
+
+---
+
+## 📌 Projeto em Destaque
+
+- 🔹 [**CleanDesk**](https://github.com/RaianLeite/CleanDesk): Aplicação em Python que organiza automaticamente arquivos em pastas específicas com base em sua extensão.
+
+> *Outros projetos serão adicionados em breve.*
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-
-  <h3>💻 Linguagens</h3>
-  <img src="https://skillicons.dev/icons?i=java,py,js,c" height="30" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaianLeite&show_icons=true&count_private=true&theme=radical" height="160" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaianLeite&layout=compact&langs_count=6&theme=radical" height="140" />
   <br><br>
-
-  <h3>🎨 Front-end</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" style="margin-bottom:-5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="30" style="margin-bottom:-5px;" />
-  <br><br>
-
-  <h3>🛠️ Back-end / Fullstack</h3>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" />
-  <br><br>
-
-  <h3>🔧 Outros</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,arduino" height="30" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaianLeite&theme=radical&area=true" height="250" />
 </div>
 
 ---
 
-<h2 align="center">📌 Currently Learning</h2>
-
-<p align="center">
-  Atualmente estou focado em aprimorar meus conhecimentos em JavaScript e desenvolvimento fullstack com Node.js e React.
-</p>
-
----
-
-<h2 align="center">📊 Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaianLeite&show_icons=true&count_private=true&theme=gruvbox_light" height="151" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaianLeite&layout=compact&langs_count=5&theme=gruvbox_light" height="140" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaianLeite&theme=gruvbox&area=true" height="300" />
-</div>
-
----
-
-<h2 align="center">🌐 Social Media</h2>
+## 🌐 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raian-leite/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/raian_leite" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <a href="mailto:raianleite97@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="mailto:raianleite97@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <a href="https://www.instagram.com/raian_leite/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
