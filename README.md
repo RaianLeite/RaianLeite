@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudante de Ciência da Computação (8º período) <br>
-  💻 Foco em Desenvolvimento Web e Fullstack <br>
+  💻 Foco em Desenvolvimento de Software <br>
   📍 Santa Luzia - MG | Disponível para trabalho remoto <br>
   🚀 Apaixonado por transformar ideias em soluções digitais
 </p>
