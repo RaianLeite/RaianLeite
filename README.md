@@ -52,24 +52,18 @@ Hoje, meu foco principal é o ecossistema **Java**, estudando arquitetura de sof
 
 ---
 
-## 🏆 Conquistas e Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RaianLeite&theme=dracula&no-frame=true&no-bg=true&margin-w=4" width="800" alt="trophies" />
-  </a>
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=RaianLeite&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="180" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaianLeite&theme=dracula&hide_border=true" height="180" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaianLeite&show_icons=true&count_private=true&theme=dracula&hide_border=true" height="160" alt="GitHub Stats" />
   
   <br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaianLeite&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="140" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RaianLeite&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="140" alt="Top Langs" />
 
   <br><br>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaianLeite&theme=react-dark&area=true&hide_border=true" width="100%" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RaianLeite&theme=react-dark&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
