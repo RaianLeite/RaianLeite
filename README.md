@@ -3,8 +3,8 @@
   <h3>Desenvolvedor Back-end em formação | Entusiasta Java</h3>
 
   <p>
-    🎓 Estudante de Ciência da Computação (8º período) na FUMEC<br>
-    📍 Santa Luzia - MG | <b>Disponível para Remoto ou Presencial (Grande BH)</b><br>
+    🎓 Formado em Ciência da Computação na universidade FUMEC<br>
+    📍 Belo Horizonte - MG | <b>Disponível para Remoto ou Presencial (Grande BH)</b><br>
     🚀 Transformando lógica e café em soluções de software eficientes.
   </p>
 
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Atualmente estou cursando o final da graduação em Ciência da Computação e focando meus estudos em **Engenharia de Software** e **Desenvolvimento Back-end**. Tenho experiência prévia com suporte de TI e infraestrutura, o que me deu uma base sólida para resolver problemas reais.
+Recem graduado em Ciência da Computação e focando meus estudos em **Engenharia de Software** e **Desenvolvimento Back-end**. Tenho experiência prévia com suporte de TI e infraestrutura, o que me deu uma base sólida para resolver problemas reais.
 
 Hoje, meu foco principal é o ecossistema **Java**, estudando arquitetura de software, boas práticas (Clean Code) e construção de APIs.
 
